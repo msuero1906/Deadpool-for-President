@@ -1,0 +1,98 @@
+body{
+    font-family: Sancreek;
+   
+    
+}
+
+h1{
+    font-size: 60px;
+    text-shadow: 4px 4px #900C3F;
+}
+
+h2{
+    font-size: 40px;
+    text-shadow: 4px 4px #900C3F;
+}
+#donate{
+    background:#831D11;
+}
+
+#donate h2 {
+    text-shadow: 4px 4px #900C3F;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#donate p{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#red h2{
+    text-shadow: 4px 4px #900C3F;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#red p{
+     text-shadow: 4px 4px #900C3F;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#face img {
+    background: #EE7769  ;
+   width:200px;
+     padding: 40px 0;
+     margin: 1px;
+}
+#face{
+    background:#EE7769;
+}
+
+#red h2 {
+    text-shadow: 4px 4px #900C3F;
+}
+
+#red{
+    background:#9B3125;
+}
+
+p{ 
+    font-size: 25px;
+text-shadow: 4px 4px #900C3F;
+color: #3E0E04;
+    
+}
+
+#dead {
+    font-family:Roboto;
+     color:black  ;
+    background-image: url("https://media.tenor.com/images/12f3baaad277b1ba1798436d320a9b18/tenor.gif");
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+    
+}
+
+#dead p{
+    font-size: 45px;
+}
+
+
+
+    
