@@ -57,6 +57,7 @@ h2{
    width:200px;
      padding: 40px 0;
      margin: 1px;
+     border: 3px yellow;
 }
 #face{
     background:#EE7769;
